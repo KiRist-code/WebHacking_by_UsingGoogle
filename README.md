@@ -44,4 +44,9 @@ https://support.google.com/websearch/answer/2466433?hl=ko&ref_topic=3081620
 
 # why it is problem?
   - 해당 사이트를 쉽고 빠르게 찾아내어 해당 서버에 대한 정보를 빠르게 조회 및 취약점을 찾아 낼 수 있다.
-  
+  - 다음은 글쓴이가 구글 해킹을 이용해 무작위로 웹페이지에 들어가서 서버 내 파일을 ~~뒤져보는~~ 사진이다.
+  <div>
+  <img src="https://raw.githubusercontent.com/KiRist-code/WebHacking_by_UsingGoogle/master/png%20file/1.PNG" width="90%"></img>
+  <img src="https://raw.githubusercontent.com/KiRist-code/WebHacking_by_UsingGoogle/master/png%20file/2.PNG" width="90%"></img>
+  <img src="https://raw.githubusercontent.com/KiRist-code/WebHacking_by_UsingGoogle/master/png%20file/3.PNG" width="90%"></img>
+  <\div>
