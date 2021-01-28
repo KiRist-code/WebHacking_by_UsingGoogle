@@ -1,5 +1,5 @@
 # WebHacking_by_UsingGoogle
-Google hacking info
+Webhaking using by Google
 
 ~~this readme file use Korean sry:(~~
 
